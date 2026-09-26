@@ -1,47 +1,38 @@
-[center][b][size=5]🐛 Bug Report: Lennox Integration Issue[/size][/b][/center]
+[center][size=5][b]BUG REPORT SUBMISSION[/b][/size][/center]
+[hr]
 
-[b]Model / Ecosystem Details:[/b]
+[b]App/System Name:[/b] Lennox [i](e.g., LennoxPros App, CORE Controller App, Website)[/i]
+[b]Reported By:[/b] Your Name / Username
+[b]Date/Time of Issue:[/b] YYYY-MM-DD / HH:MM
+
+[size=4][b]1. Issue Summary[/b][/size]
+[quote]Provide a clear, brief one-sentence description of the bug here.[/quote]
+
+[size=4][b]2. Environment & Version Details[/b][/size]
 [list]
-[*] [b]Lennox Hardware Model:[/b] [i]e.g., S30, S40, E30, M30[/i]
-[*] [b]Integration Library used:[/b] [i]e.g., PeteRager/lennoxs30api / lennoxapi (TypeScript)[/i]
-[*] [b]Platform/Environment Version:[/b] [i]e.g., Home Assistant 2026.3.1, Node.js v20, Python 3.11[/i]
+[*] [b]Software/Firmware Version:[/b] e.g., v3.4.2
+[*] [b]Operating System / Device:[/b] e.g., iOS 17, Android 14, Windows 11 Desktop
+[*] [b]Browser (If applicable):[/b] e.g., Chrome, Safari, Edge
 [/list]
 
-[hr]
-
-[b][size=4]1. Description of the Bug[/size][/b]
-A clear and concise description of what the bug is. What went wrong? 
-
-[b][size=4]2. Steps to Reproduce[/size][/b]
+[size=4][b]3. Steps to Reproduce (STR)[/b][/size]
 [list=1]
-[*] Step one...
-[*] Step two...
-[*] Step three...
+[*] Navigate to...
+[*] Click on...
+[*] Attempt to submit/load...
+[*] Observe the error.
 [/list]
 
-[b][size=4]3. Expected Behavior[/size][/b]
-A clear description of what you expected to happen (e.g., "The thermostat target temperature should update to 72 degrees instantly").
+[size=4][b]4. Expected Result[/b][/size]
+What [i]should[/i] have happened normally.
 
-[hr]
+[size=4][b]5. Actual Result / Error Code[/b][/size]
+What actually happened. Include any specific [b]Lennox Error Codes[/b] (e.g., E201, E292) or error logs here.
 
-[b][size=4]4. Code Snippet / Configuration[/size][/b]
-[i]Paste the relevant script, YAML snippet, or initialization code causing the issue below:[/i]
-
+[size=4][b]6. Attachments & Visual Evidence[/b][/size]
+[spoiler=Click to view screenshot/log]
+[img]Insert_Image_URL_Here.png[/img]
 [code]
-# Paste your code or YAML configurations here
-# (Make sure to remove your real Lennox passwords or API keys!)
-
+Paste raw console logs or error crash stack text here if applicable
 [/code]
-
-[b][size=4]5. Diagnostic Logs / Error Messages[/size][/b]
-[i]Paste the relevant terminal output, Python tracebacks, or home automation error logs inside this block:[/i]
-
-[code]
-# Paste logs or error messages here
-
-[/code]
-
-[hr]
-
-[b]Additional Context:[/b]
-Add any other context about the problem here (e.g., "This started happening after the latest Lennox cloud server migration/firmware update").
+[/spoiler]
